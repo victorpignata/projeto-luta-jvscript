@@ -7,3 +7,4 @@ stage.start(
     document.querySelector('#char'),
     document.querySelector('#monster')
 );
+
